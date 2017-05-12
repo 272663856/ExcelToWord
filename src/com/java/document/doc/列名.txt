@@ -1,0 +1,10 @@
+预编号(TH)   ${YBHTH}
+  
+权利人姓名(TH) ${QLRXMTH}
+
+
+证件号码(TH)  ${ZJHMTH}
+
+坐落(TH) ${ZLTH}
+
+
