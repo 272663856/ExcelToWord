@@ -1,13 +1,13 @@
-package com.java.document;
+package com.java.document.utils;
+
+
+import org.apache.commons.lang3.RandomUtils;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 import java.util.Map;
-import java.util.concurrent.RecursiveAction;
-import java.util.concurrent.RecursiveTask;
 
-import org.apache.commons.lang3.RandomUtils;
 /**
  * 作废
  * @author wangjy

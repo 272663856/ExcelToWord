@@ -1,4 +1,4 @@
-package com.java.document;
+package com.java.document.utils;
 
 import java.io.File;
 import java.io.FileInputStream;
